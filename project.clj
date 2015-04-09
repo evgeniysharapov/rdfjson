@@ -16,6 +16,6 @@
                  [org.openrdf.sesame/sesame-rio-trig ~sesame-version]
                  [org.openrdf.sesame/sesame-rio-ntriples ~sesame-version]
                  ;; [org.openrdf.sesame/sesame-rio "2.7.14" :extension "pom"]
-                 [com.novemberain/monger "2.0.0"]])
+                 ])
 
 
